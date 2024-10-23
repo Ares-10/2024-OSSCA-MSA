@@ -35,3 +35,9 @@
 ![https://github.com/CodeJesterND](https://avatars.githubusercontent.com/u/97419192?s=60&v=4)
 ![https://github.com/SIMJIYEON93](https://avatars.githubusercontent.com/u/111446820?s=60&v=4)
 <a href="https://github.com/chldppwls12"><img src="https://avatars.githubusercontent.com/u/63734765?s=60&v=4" width="60"></a>
+<a href="https://github.com/rhkrqkq"><img src="https://avatars.githubusercontent.com/u/78396908?s=60&v=4" width="60"></a>
+<a href="https://github.com/alswp006"><img src="https://avatars.githubusercontent.com/u/102672547?s=60&v=4" width="60"></a>
+<a href="https://github.com/mingyeongwon"><img src="https://avatars.githubusercontent.com/u/161445947?s=60&v=4" width="60"></a>
+<a href="https://github.com/shyeseon"><img src="https://avatars.githubusercontent.com/u/166082224?s=60&v=4" width="60"></a>
+<a href="https://github.com/y0unghwanhwang"><img src="https://avatars.githubusercontent.com/u/104403136?s=60&v=4" width="60"></a>
+<a href="https://github.com/zoouniak"><img src="https://avatars.githubusercontent.com/u/88364328?s=60&v=4" width="60"></a>
